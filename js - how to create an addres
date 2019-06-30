@@ -3,7 +3,7 @@ https://medium.com/blockthought/creating-bitcoin-wallets-in-js-69c0773c2954
 1) Private key
 2) Public key
 3) Public key hash
-4) Public addres
+4) Public address
 
 const secureRandom = require('secure-random');
 const elliptic = require('elliptic');
